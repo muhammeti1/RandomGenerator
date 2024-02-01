@@ -1,0 +1,43 @@
+# Random Şifre Oluşturucusu
+
+Dilediğiniz seçeneğe göre şifre oluşturur.
+
+## İçerik Dosyaları
+
+İçerisinde bir adet **read.me**, **index.html**, **style.css** ve **script.js** dosyası bulunuyor.
+
+## Kullanılan Diller
+
+* Html
+* Css
+* Javascript
+
+## Katkıda Bulunmak 
+
+Çekme istekleri kabul edilir. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak üzere bir konu açın.
+
+Lütfen testleri uygun şekilde güncellediğinizden emin olun.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+# Random Password Generator
+Generates a password according to your desired option.
+
+## Content Files
+It contains one read.me, index.html, style.css, and script.js files.
+
+## Used Languages
+
+* Html
+* Css
+* Javascript
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
